@@ -1,74 +1,82 @@
 # Wolfsblvt GitHub defaults
 
-This repository provides a small set of default community files for public repositories owned by
-[`@Wolfsblvt`](https://github.com/Wolfsblvt).
+[![Community files: fallback](https://img.shields.io/badge/community_files-fallback-4B69C6)](#what-github-inherits)
+[![Local policy: wins](https://img.shields.io/badge/local_policy-wins-2D7D76)](#start-with-the-project)
+[![Funding: optional](https://img.shields.io/badge/funding-optional-8C6BB1)](#funding-without-promises)
 
-GitHub uses a default file only when the target repository does not contain its own file of the same type. A local
-repository policy always wins. The defaults are fallback contracts, not a promise that every historical repository is
-active, accepting contributions, supported, or maintained on the same schedule.
+**A shared starting point, not a one-size-fits-all policy.**
 
-## Files in this repository
+Contribution guidance, a focused pull-request template, and an optional funding destination for
+[@Wolfsblvt's public repositories](https://github.com/Wolfsblvt?tab=repositories).
+This repository keeps those account-wide fallbacks in one place; each project's own rules come first.
 
-| File | Purpose | GitHub inheritance |
+A fallback file is not a sign that a project is active, accepting contributions, or offering support.
+
+**[Read the contribution guide](CONTRIBUTING.md)** · [See the defaults](#what-github-inherits) · [Maintain them](#maintaining-the-defaults)
+
+## Start with the project
+
+**Contributing?** Begin with the target repository's README and local contribution guidance. Confirm that the
+project accepts changes, check existing issues and pull requests, and follow its own setup and validation instructions.
+When no local guide exists, [CONTRIBUTING.md](CONTRIBUTING.md) supplies the baseline. A useful pull request explains
+what changed, why, how it was checked, and any relevant assistance or limitations.
+
+**Maintaining a repository?** Leave a supported community file absent to use the account default, or add a local file
+of the same type when the project needs its own contract. There is nothing to install or copy: GitHub presents the
+fallback where it applies. Verify the contribution screen or template in the receiving repository, not just this
+repository's file list.
+
+## What GitHub inherits
+
+| File | What it supplies | Inheritance |
 | --- | --- | --- |
-| [`README.md`](README.md) | explains this repository's scope, effects, maintenance contract, and license boundary | not inherited |
-| [`FUNDING.yml`](FUNDING.yml) | supplies Wolf's optional Ko-fi destination to repositories that choose to display GitHub's Sponsor button | inherited when no local override exists |
-| [`CONTRIBUTING.md`](CONTRIBUTING.md) | gives contributors a small honest baseline when a repository has no product-specific contribution guide | inherited when no local override exists |
-| [`.github/pull_request_template.md`](.github/pull_request_template.md) | asks for the change, reason, validation, and relevant contribution context without inventing repository-specific commands or gates | inherited when no local override exists |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | Contribution scope, reviewable changes, validation, and assistance disclosure | Fallback when no local guide exists |
+| [Pull-request template](.github/pull_request_template.md) | What changed, why, validation, and contribution context | Fallback when no local template exists |
+| [FUNDING.yml](FUNDING.yml) | Wolf's optional Ko-fi destination | Fallback when no local override exists; Sponsor display is controlled per repository |
+| [README.md](README.md) | This repository's scope, maintenance, and rights | Not inherited |
 
-## Inheritance and overrides
+GitHub's [default community-file mechanism](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
+selects the matching fallback without copying it into downstream repositories, Git history, clones, packages, or
+downloads. A repository-local file overrides the matching default.
 
-The community files and pull-request template identified above are exposed through GitHub's default community-health
-mechanism. They are not copied into downstream repositories or their clones. `README.md` applies only to this repository
-and is never an account-default file.
+Local policies can therefore carry exact build commands, branch rules, support routes, and contribution expectations
+without turning this fallback into a rulebook for every project.
 
-A repository-local file overrides the matching default. This is deliberate: a mature product may need exact build
-commands, branch rules, support routes, security policy, or contribution expectations that do not belong in an
-account-wide fallback.
+## Funding without promises
 
-The initial publication decision was reviewed against every public repository owned by Wolf on 2026-08-20, including
-active and archived receivers. Future additions still require the same file-by-file check; placing a new inheritable
-file here may publish it across many repositories immediately.
+[FUNDING.yml](FUNDING.yml) names an available funding destination. It does **not** enable Sponsorships across the
+account: each repository decides whether to display its
+[Sponsor button](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository)
+through its own settings.
 
-## Funding behavior
+Inheriting that destination does not reactivate an archived project. Optional support creates no service tier,
+priority, access, support obligation, or special treatment.
 
-`FUNDING.yml` defines an available funding destination. It does **not** enable GitHub Sponsorships on every repository.
-Each repository separately decides whether to display the Sponsor button through its own feature settings. Archived
-repositories may inherit the destination without becoming active or supported again.
+## What stays with each project
 
-Optional support creates no service tier, priority, access, support obligation, or special treatment.
+These defaults deliberately do not provide:
 
-## Deliberately not global
+- **Community and contact policies:** issue forms or labels, Discussion forms, privacy, security reporting, support,
+  a code of conduct, or governance.
+- **Automation and repository controls:** workflows, Dependabot configuration, branch rules, or repository settings.
+- **Project licenses:** every downstream public repository still needs its own explicit, product-appropriate license.
+  Nothing here supplies or implies one.
 
-This repository currently does not provide default:
+Those surfaces need product-specific facts, a real receiver, or a deliberately selected common contract.
+Repository-specific policy belongs with the repository that owns it.
 
-- Issue forms or labels;
-- privacy policy;
-- security-reporting policy;
-- support policy;
-- code of conduct;
-- governance document;
-- Discussion forms;
-- workflows, Dependabot configuration, branch rules, or repository settings; or
-- downstream repository licenses.
+## Maintaining the defaults
 
-Those surfaces need product-specific facts, a real receiver, or a deliberately selected common contract. A file does not
-become useful merely because GitHub has an empty drawer for it.
+**An inherited-file change can affect many repositories immediately.** Keep the defaults small and broadly truthful:
 
-Every downstream public repository still needs its own explicit product-appropriate license. Nothing in this account-
-default repository supplies or implies one.
+1. Inspect the public repositories that would inherit the changed file, including active and archived receivers.
+2. Preserve useful local overrides.
+3. Avoid promises whose receiver or capacity does not exist.
+4. After publication, verify one inheriting repository and one local-override control.
+5. Remove or narrow a default when it stops being honest.
 
-## Maintenance
-
-Keep these defaults small and broadly truthful. Before changing one:
-
-1. inspect the public repositories that would inherit it;
-2. preserve useful local overrides;
-3. avoid promises whose receiver or capacity does not exist;
-4. verify one inheriting repository and one local-override control after publication; and
-5. remove or narrow a default when it stops being honest.
-
-Repository-specific contribution and community policy belongs with the repository that owns it.
+The initial publication was reviewed across Wolf's public repositories on 2026-08-20. That baseline does not replace
+the same file-by-file check for future additions.
 
 ## License
 
