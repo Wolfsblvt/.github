@@ -1,5 +1,7 @@
 # Contributing
 
+## Meaning
+
 Thanks for considering a contribution.
 
 This is account-wide fallback guidance. Start with the target repository's README and any local contribution files;
@@ -34,6 +36,28 @@ Do not include:
 By submitting material, you confirm that you have the right to contribute it and understand that the target repository's
 own license and contribution policy govern the accepted result. No account-wide CLA, DCO signoff, support promise, or
 issue-first rule is invented by this fallback document.
+
+## Licensing and commercial use
+
+Unless the target repository's applicable license or an explicitly accepted agreement states otherwise, intentional
+contributions are submitted under that repository's license, including any separate license that applies to the
+contributed material. Submitting a contribution does not transfer copyright ownership.
+
+Maintainers and other recipients may use accepted contributions commercially to the extent that the applicable license
+permits, while preserving its conditions. This may include paid distribution, hosting, support, or a separately scoped
+commercial product or service. MIT already permits commercial reuse with its required notices; AGPL also permits paid
+offerings while retaining its applicable source and other obligations. Payment does not itself require a separate
+contributor agreement.
+
+This clarification grants no additional right to relicense another person's contribution under incompatible terms,
+changes no existing license, and creates no blanket CLA or DCO requirement. If a concrete project later needs rights
+not already granted, those rights must be obtained separately rather than assumed from this guide. Repository-specific
+contribution agreements, where actually selected, must be stated explicitly.
+
+See the [MIT license](https://opensource.org/license/mit),
+[AGPL license](https://www.gnu.org/licenses/agpl-3.0.en.html), and
+[GitHub's contribution-license terms](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license)
+for the relevant underlying texts.
 
 ## Generative-AI assistance
 
