@@ -33,6 +33,7 @@ repository's file list.
 | [CONTRIBUTING.md](CONTRIBUTING.md) | Contribution scope, reviewable changes, validation, and assistance disclosure | Fallback when no local guide exists |
 | [Pull-request template](.github/pull_request_template.md) | What changed, why, validation, and contribution context | Fallback when no local template exists |
 | [FUNDING.yml](FUNDING.yml) | Wolf's optional Ko-fi destination | Fallback when no local override exists; Sponsor display is controlled per repository |
+| [FUNDING.md](FUNDING.md) | Optional-support scope and product-specific offer boundaries | Explanatory guide; not inherited by GitHub |
 | [README.md](README.md) | This repository's scope, maintenance, and rights | Not inherited |
 
 GitHub's [default community-file mechanism](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
@@ -49,8 +50,13 @@ account: each repository decides whether to display its
 [Sponsor button](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository)
 through its own settings.
 
-Inheriting that destination does not reactivate an archived project. Optional support creates no service tier,
-priority, access, support obligation, or special treatment.
+Inheriting that destination does not reactivate an archived project. Optional support alone creates no service tier,
+priority, private access, support obligation, or special treatment. Only a benefit explicitly offered by an active
+published tier creates that stated benefit; it does not create an unstated support or access commitment.
+
+[Funding details](FUNDING.md) explain the distinction. A project's own license, paid/free scope, maintenance status,
+and accepted contribution policy remain authoritative. This account-wide fallback adopts no universal open-source
+completeness promise and no additional contributor-rights agreement.
 
 ## What stays with each project
 
