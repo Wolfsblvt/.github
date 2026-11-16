@@ -34,6 +34,7 @@ repository's file list.
 | [Pull-request template](.github/pull_request_template.md) | What changed, why, validation, and contribution context | Fallback when no local template exists |
 | [FUNDING.yml](FUNDING.yml) | Wolf's optional Ko-fi destination | Fallback when no local override exists; Sponsor display is controlled per repository |
 | [Funding guide](funding.md) | Optional-support scope and product-specific offer boundaries | Explanatory guide; not inherited by GitHub |
+| [Sponsors commission copy](sponsors-commission.md) | Ready-to-publish invitation to commission Wolf | Editorial source; not inherited or automatically published |
 | [README.md](README.md) | This repository's scope, maintenance, and rights | Not inherited |
 
 GitHub's [default community-file mechanism](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
@@ -42,6 +43,20 @@ downloads. A repository-local file overrides the matching default.
 
 Local policies can therefore carry exact build commands, branch rules, support routes, and contribution expectations
 without turning this fallback into a rulebook for every project.
+
+## Commission Wolf
+
+Wolf works with startups and companies on AI agents, autonomous agent teams, workflows and software. Paid audits,
+written recommendations and focused implementation draw on C#/.NET and JavaScript expertise. He is particularly
+interested in longer-term business contracts: carrying context forward, advising the team and following improvements
+through. The full catalogue explains situations, deliverables and human-only work by agreement.
+
+**[Explore the consulting catalogue](https://wolfsblvt.com/consulting/)** ·
+[Deutsch: Beratung und Leistungen](https://wolfsblvt.com/de/beratung/) ·
+**[Ask about paid work](https://contact.wolfsblvt.works/?product=wolfsblvt-com&category=consulting)**
+
+Scope, availability, delivery dates and fees are agreed individually. Sponsoring a project does not book consulting.
+The [funding guide](funding.md#commission-wolf) explains the relationship.
 
 ## Funding without promises
 
@@ -83,6 +98,17 @@ Repository-specific policy belongs with the repository that owns it.
 
 The initial publication was reviewed across Wolf's public repositories on 2026-08-20. That baseline does not replace
 the same file-by-file check for future additions.
+
+### Sponsors profile copy
+
+[`sponsors-commission.md`](sponsors-commission.md) is the complete insertion for Wolf's
+[GitHub Sponsors introduction](https://github.com/sponsors/Wolfsblvt). Keep the existing personal introduction and
+support explanation; insert this section before the closing project links. Publish it through the account's Sponsors
+profile editor after the catalogue and Works contact category are live. Merging this repository does not edit that
+dashboard. Tier prices, rewards and inherited `FUNDING.yml` are separate surfaces.
+
+Keep this insertion aligned with the actual catalogue. GitHub documents the
+[profile editing route](https://docs.github.com/en/sponsors/receiving-sponsorships-through-github-sponsors/editing-your-profile-details-for-github-sponsors).
 
 ## License
 

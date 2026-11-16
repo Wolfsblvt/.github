@@ -8,7 +8,8 @@ Wolfsblvt Works product free or open source. GitHub does not inherit this guide 
 
 ## Optional support
 
-[Support through Ko-fi](https://ko-fi.com/wolfsblvt). Voluntary support may fund maintenance, releases, domains,
+[Support through GitHub Sponsors](https://github.com/sponsors/Wolfsblvt) or [Ko-fi](https://ko-fi.com/wolfsblvt).
+Voluntary support may fund maintenance, releases, domains,
 infrastructure, artwork, and continued development. Contributions above direct running costs can fund further work.
 A contribution is welcome, not required for ordinary use of a free product.
 
@@ -38,13 +39,50 @@ Wolfsblvt Works may also make proprietary applications, commercial games, SaaS, 
 separately scoped paid services. Those products state their own boundaries rather than inheriting another project's
 funding model. An open-source license can permit commercial use without promising free hosting or maintenance.
 
-## Professional and commercial enquiries
+## Commission Wolf
+
+You can hire Wolf for an audit, a thorough written recommendation, a second opinion, focused implementation or an
+ongoing technical role alongside your team. The full catalogue lives at **[wolfsblvt.com/consulting](https://wolfsblvt.com/consulting/)**, with a
+**[German version](https://wolfsblvt.com/de/beratung/)**.
+
+Typical work includes:
+
+- **AI-agent audits and workflow reviews:** understand why instructions get lost, tools are misused, tasks repeat or
+  a setup needs constant supervision. Receive findings, priorities and practical next steps.
+- **Autonomous agents and agent teams:** review or plan systems intended to work around the clock, including persistent
+  context, task scheduling, handoffs, permissions, cost limits and recovery.
+- **C#/.NET and JavaScript software reviews:** assess architecture, integrations, maintainability and an AI-built
+  application that has become a real business. Decide what to keep, improve or repair.
+- **Focused rescue work, automation and ongoing advice:** investigate a concrete problem, make a scoped correction or
+  arrange recurring paid work under a contract.
+
+Analysis and recommendations lead the offer. Wolf is particularly interested in startups and companies with real
+operational problems, and in longer-term business contracts where he can keep advising and working alongside the team.
+Serious independent builders are welcome too. A defined commission has an agreed scope and a concrete result; a whole
+system rebuild needs its own discovery, budget and agreement. Useful early findings can come quickly; deep analysis
+needs time and access to the relevant context. English and German are welcome. If you explicitly commission human-only work, Wolf personally performs both the
+analysis and the written response, without AI doing either. His ordinary workflows may use AI.
+
+Fees are quoted individually. Tight delivery deadlines can be agreed when the scope, availability and fee fit; an
+enquiry itself carries no response-time promise. An urgent first assessment and a full audit are different scopes.
+Ongoing work and reserved capacity need an appropriate contract and budget. Wolf is willing to adjust his current
+full-time working hours for a suitable engagement, with that commitment reflected in the agreement and fee.
+
+**[Enquire about consulting and contracts](https://contact.wolfsblvt.works/?product=wolfsblvt-com&category=consulting)**
+or email **[wolf@wolfsblvt.com](mailto:wolf@wolfsblvt.com)**. The English contact form preselects **Consulting & contracts**;
+you can write your message in English or German.
+
+Sponsorship supports the work. A commission purchases separately agreed work. A sponsorship payment does not book
+time, create a support contract or settle a consulting invoice.
+
+## Other professional and commercial enquiries
 
 Setup, deployment, integration, sponsored open-source development, and support arrangements may be available by
 agreement. Alternative licensing may be discussed where the necessary rights exist; ordinary commercial permission
 already granted by an open-source license does not need to be bought again.
 
-Use the relevant project's published contact route for enquiries. Voluntary support and an enquiry do not create
+Use the relevant project's published contact route, or the consulting form above for an individual agreement.
+Voluntary support and an enquiry do not create
 availability, free consulting, delivery dates, response-time commitments, or a professional agreement.
 
 ## License and contribution boundaries
