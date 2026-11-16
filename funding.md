@@ -41,8 +41,8 @@ funding model. An open-source license can permit commercial use without promisin
 
 ## Commission Wolf
 
-You can hire Wolf for an audit, a thorough written recommendation, a second opinion or focused help with your own
-systems. The full catalogue lives at **[wolfsblvt.com/consulting](https://wolfsblvt.com/consulting/)**, with a
+You can hire Wolf for an audit, a thorough written recommendation, a second opinion, focused implementation or an
+ongoing technical role alongside your team. The full catalogue lives at **[wolfsblvt.com/consulting](https://wolfsblvt.com/consulting/)**, with a
 **[German version](https://wolfsblvt.com/de/beratung/)**.
 
 Typical work includes:
@@ -56,14 +56,17 @@ Typical work includes:
 - **Focused rescue work, automation and ongoing advice:** investigate a concrete problem, make a scoped correction or
   arrange recurring paid work under a contract.
 
-Analysis and recommendations lead the offer. A typical commission has an agreed scope and a concrete result; a whole
-system rebuild needs its own discovery, budget and agreement. Individuals, small teams and companies can enquire.
-English and German are welcome. If you explicitly commission human-only work, Wolf personally performs both the
+Analysis and recommendations lead the offer. Wolf is particularly interested in startups and companies with real
+operational problems, and in longer-term business contracts where he can keep advising and working alongside the team.
+Serious independent builders are welcome too. A defined commission has an agreed scope and a concrete result; a whole
+system rebuild needs its own discovery, budget and agreement. Useful early findings can come quickly; deep analysis
+needs time and access to the relevant context. English and German are welcome. If you explicitly commission human-only work, Wolf personally performs both the
 analysis and the written response, without AI doing either. His ordinary workflows may use AI.
 
 Fees are quoted individually. Tight delivery deadlines can be agreed when the scope, availability and fee fit; an
-enquiry itself carries no response-time promise. Ongoing work and reserved capacity need an appropriate contract and
-budget, especially when they would change Wolf's full-time working hours.
+enquiry itself carries no response-time promise. An urgent first assessment and a full audit are different scopes.
+Ongoing work and reserved capacity need an appropriate contract and budget. Wolf is willing to adjust his current
+full-time working hours for a suitable engagement, with that commitment reflected in the agreement and fee.
 
 **[Enquire about consulting and contracts](https://contact.wolfsblvt.works/?product=wolfsblvt-com&category=consulting)**
 or email **[wolf@wolfsblvt.com](mailto:wolf@wolfsblvt.com)**. The English contact form preselects **Consulting & contracts**;

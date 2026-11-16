@@ -46,9 +46,10 @@ without turning this fallback into a rulebook for every project.
 
 ## Commission Wolf
 
-Need an experienced second opinion on your AI agents, autonomous agent teams, workflows or software? Wolf offers paid
-audits, written recommendations and focused help, with C#/.NET and JavaScript as core strengths. The full catalogue
-explains concrete situations, possible deliverables, human-only work by agreement and recurring engagements.
+Wolf works with startups and companies on AI agents, autonomous agent teams, workflows and software. Paid audits,
+written recommendations and focused implementation draw on C#/.NET and JavaScript expertise. He is particularly
+interested in longer-term business contracts: carrying context forward, advising the team and following improvements
+through. The full catalogue explains situations, deliverables and human-only work by agreement.
 
 **[Explore the consulting catalogue](https://wolfsblvt.com/consulting/)** ·
 [Deutsch: Beratung und Leistungen](https://wolfsblvt.com/de/beratung/) ·

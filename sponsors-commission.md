@@ -1,7 +1,7 @@
 ## You can also commission me.
 
 Sometimes you want to support what I make. Sometimes you have your own wonderfully complicated problem and want my
-help with it. I take paid commissions, too.
+help with it. I work with startups and companies that need an experienced outside view and practical help.
 
 My favourite starting point is understanding what's going wrong and giving you a useful answer:
 
@@ -11,11 +11,15 @@ My favourite starting point is understanding what's going wrong and giving you a
   handoffs and recovery when something fails.
 - **C#/.NET and JavaScript software reviews** — architecture, integrations, maintainability, or the AI-built project
   that suddenly became a real business.
-- **Focused rescue work and ongoing advice** — a concrete problem to investigate, a scoped fix, or a recurring paid
-  engagement under an agreement.
+- **Focused rescue work** — a concrete problem to investigate and a repair with an agreed scope.
 
-Usually: we agree on the work, I do it, you get findings and recommendations you can use. I use AI in my ordinary
-workflows; if you commission human-only analysis and a human-written response, I personally do both without AI.
+A one-off audit gives you findings and recommendations you can use. I’m also actively interested in **longer-term
+business contracts**: regular technical advice, recurring reviews, and focused implementation alongside your team.
+I like staying with a problem long enough to understand the system and see improvements hold up.
+
+I work efficiently and can share useful findings early. A deep investigation still takes time. We need the relevant
+context, a realistic scope, and a budget that matches the work. I use AI in my ordinary workflows; if you commission
+human-only analysis and a human-written response, I personally do both without AI.
 
 Scope, availability, delivery dates and fees are agreed individually. Tight deadlines are possible when the agreement
 fits; sending an enquiry doesn't create a response-time promise. English and German are both welcome.
